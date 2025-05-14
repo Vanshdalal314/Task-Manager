@@ -1,4 +1,3 @@
-```markdown
 # 📝 Task Manager
 
 A task manager application built with the MERN stack (MongoDB, Express, React, Node.js). Users can create, update, delete, and view tasks.

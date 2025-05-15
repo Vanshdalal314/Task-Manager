@@ -8,7 +8,7 @@ import "react-toastify/dist/ReactToastify.css"
 import { INPUT_WRAPPER, FULL_BUTTON, SECTION_WRAPPER, BACK_BUTTON, DANGER_BTN, personalFields, securityFields } from '../assets/dummy'
 
 // Constants & Dummy Data
-const API_URL = "http://localhost:4000"
+const API_URL = "https://task-manager-backend-tll4.onrender.com"
 
 export default function Profile({ setCurrentUser, onLogout }) {
   const [profile, setProfile] = useState({ name: "", email: "" })

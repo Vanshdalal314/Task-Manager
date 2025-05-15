@@ -32,7 +32,7 @@ task-manager/
 
 ### Clone the repo:
 ```bash
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/Vanshdalal314/Task-Manager
 cd task-manager
 ````
 
@@ -51,7 +51,9 @@ cd frontend
 npm install
 npm start
 ```
+🌐 Check Live Demo Now!!
 
+- 🔗 Frontend: [Click here](https://task-manager-frontend-vst3.onrender.com)
 ```
 
 Let me know if you'd like it personalized or expanded (e.g. with environment setup, .env variables, or deployment instructions).

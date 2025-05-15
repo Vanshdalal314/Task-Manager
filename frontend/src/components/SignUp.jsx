@@ -41,7 +41,7 @@ const SignUp = ({ onSwitchMode }) => {
           <UserPlus className="w-8 h-8 text-white" />
         </div>
         <h2 className="text-2xl font-bold text-gray-800">Create Account</h2>
-        <p className="text-gray-500 text-sm mt-1">Join TaskFlow to manage your tasks</p>
+        <p className="text-gray-500 text-sm mt-1">Join Task Manager to manage your tasks</p>
       </div>
 
       {message.text && (

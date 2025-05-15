@@ -53,7 +53,7 @@ npm start
 ```
 🌐 Check Live Demo Now!!
 
-- 🔗 Frontend: [Click here](https://task-manager-frontend-vst3.onrender.com)
+- 🔗 [Click here](https://task-manager-frontend-vst3.onrender.com)
 ```
 
 Let me know if you'd like it personalized or expanded (e.g. with environment setup, .env variables, or deployment instructions).
